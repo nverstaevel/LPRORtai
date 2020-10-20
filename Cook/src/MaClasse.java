@@ -7,6 +7,7 @@ public class MaClasse {
 		System.out.println("Coucou");
 		// Commentaire
 		// Commentaire 3
-	}
+		// Commentaire 	
+		}
 
 }
