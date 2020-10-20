@@ -5,6 +5,7 @@ public class MaClasse {
 		// TODO Auto-generated method stub
 		System.out.println("Hello WOrld");
 		System.out.println("Coucou");
+		// Commentaire
 	}
 
 }
